@@ -2,7 +2,9 @@
 
 ![logo](https://miro.medium.com/v2/resize:fit:400/format:webp/1*4em6vs3ZgBa4bxhQaSbzqA.jpeg)
 
-A checklist for composer packages by Michael Kraft
+A checklist for php composer packages by Michael Kraft.
+
+This could be also used for other programming languages and/or other dependency managers.
 
 ## Description
 One of the biggest problem in PHP are bad composer dependencies, specially when its comes to security reasons und update scenarios.
