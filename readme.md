@@ -7,7 +7,7 @@ A checklist for php composer packages by Michael Kraft.
 This could be also used for other programming languages and/or other dependency managers.
 
 ## Description
-One of the biggest problem in PHP are bad composer dependencies, specially when its comes to security reasons und update scenarios.
+One of the biggest problem in PHP are bad composer dependencies, specially when its comes to security reasons and update scenarios.
 
 Over the years I discussed different problems/ideas/solutions and learned the hard way: 
 *a few hours of analyzing by one person can safe years of unhappy coding for the whole team*
