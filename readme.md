@@ -1,5 +1,9 @@
 # R.O.B.U.S.T. check (v.1.0)
+
+![logo](https://miro.medium.com/v2/resize:fit:400/format:webp/1*4em6vs3ZgBa4bxhQaSbzqA.jpeg)
+
 A checklist for composer packages by Michael Kraft
+
 ## Description
 One of the biggest problem in PHP are bad composer dependencies, specially when its comes to security reasons und update scenarios.
 
@@ -213,3 +217,6 @@ Check the test coverage
 
 - The package has weird methods that returned or worked differently as described.
 - The package has weird methods that are unused, unfinished or old and not deleted.
+
+
+https://medium.com/@mkraft_berlin/r-o-b-u-s-t-check-v-1-0-187ed8db8264
